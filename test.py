@@ -43,6 +43,7 @@ def main():
     ############################# testing part  ###################################
 
     path = "C:/Users/Dushyant Sharma/Desktop/dataset/"
+    image = "11.jpg"
 
     #testing
     initial_image = cv2.imread ( path + image )
